@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bca6993-d6b9-42ad-8166-5a17c24ac257" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_if.py" afterPath="$PROJECT_DIR$/05_if.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11_lists.py" afterPath="$PROJECT_DIR$/11_lists.py" />
+      <change type="MOVED" beforePath="C:\Users\minor\projects\personal\python\_reorder.py" afterPath="$PROJECT_DIR$/_renumber.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python.iws" />
@@ -29,53 +28,7 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="10_for.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_for.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_reorder.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_reorder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="16" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="11_lists.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11_lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="5" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="09_while.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09_while.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="1054">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05_if.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05_if.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="0.02618658" vertical-offset="205" max-vertical-offset="816">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -430,7 +383,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -441,7 +394,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32947367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -471,25 +424,6 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_reorder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="16" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="63" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="238" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
@@ -526,13 +460,6 @@
     <entry file="file://$PROJECT_DIR$/task1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_reorder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="12" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="629">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_variables.py">
@@ -589,11 +516,6 @@
         <state line="26" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.478355" vertical-offset="0" max-vertical-offset="924" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="63" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_variables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="0.07359307" vertical-offset="0" max-vertical-offset="924" />
@@ -605,41 +527,6 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="0" selection-end="31" vertical-scroll-proportion="0.07359307" vertical-offset="0" max-vertical-offset="924">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_reorder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="1054">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="0.02618658" vertical-offset="205" max-vertical-offset="816">
           <folding />
         </state>
       </provider>
