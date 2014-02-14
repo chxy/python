@@ -4,7 +4,10 @@ order = (
     'hello_world',
     'calculator',
     'variables',
-    'types'
+    'types',
+    'functions',
+    'files',
+    'csv_files',
 )
 
 my_dir_path = os.path.dirname(__file__)

@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/02_calculator.py" line="8" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bca6993-d6b9-42ad-8166-5a17c24ac257" name="Default" comment="" />
+    <list default="true" id="1bca6993-d6b9-42ad-8166-5a17c24ac257" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_reorder.py" afterPath="$PROJECT_DIR$/_reorder.py" />
+    </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +31,16 @@
       <file leaf-file-name="_reorder.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_reorder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="37" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+            <state line="8" column="12" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_functions.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
@@ -47,7 +58,7 @@
       <file leaf-file-name="04_types.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04_types.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="38" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="765">
+            <state line="31" column="38" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
@@ -71,10 +82,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task1.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="task1.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.08346972" vertical-offset="0" max-vertical-offset="611">
+            <state line="3" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06_files.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07_csv_files.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_csv_files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.22258593" vertical-offset="0" max-vertical-offset="611">
               <folding />
             </state>
           </provider>
@@ -93,12 +122,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_reorder.py" />
         <option value="$PROJECT_DIR$/02_calculator.py" />
         <option value="$PROJECT_DIR$/03_variables.py" />
         <option value="$PROJECT_DIR$/04_types.py" />
         <option value="$PROJECT_DIR$/01_hello_world.py" />
         <option value="$PROJECT_DIR$/task1.py" />
+        <option value="$PROJECT_DIR$/05_files.py" />
+        <option value="$PROJECT_DIR$/05_functions.py" />
+        <option value="$PROJECT_DIR$/06_files.py" />
+        <option value="$PROJECT_DIR$/_reorder.py" />
+        <option value="$PROJECT_DIR$/07_csv_files.py" />
       </list>
     </option>
   </component>
@@ -165,7 +198,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_hello_world">
+  <component name="RunManager" selected="Python.07_csv_files">
     <configuration default="false" name="_reorder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,6 +248,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_hello_world.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="05_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="07_csv_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_csv_files.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -341,16 +410,20 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python._reorder" />
       <item index="1" class="java.lang.String" itemvalue="Python.02_calculator" />
       <item index="2" class="java.lang.String" itemvalue="Python.01_hello_world" />
+      <item index="3" class="java.lang.String" itemvalue="Python.05_functions" />
+      <item index="4" class="java.lang.String" itemvalue="Python.07_csv_files" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.01_hello_world" />
-        <item index="1" class="java.lang.String" itemvalue="Python.02_calculator" />
-        <item index="2" class="java.lang.String" itemvalue="Python._reorder" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.07_csv_files" />
+        <item index="1" class="java.lang.String" itemvalue="Python.05_functions" />
+        <item index="2" class="java.lang.String" itemvalue="Python.01_hello_world" />
+        <item index="3" class="java.lang.String" itemvalue="Python.02_calculator" />
+        <item index="4" class="java.lang.String" itemvalue="Python._reorder" />
       </list>
     </recent_temporary>
   </component>
@@ -365,14 +438,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -403,23 +476,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_reorder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="37" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="5" selection-start="65" selection-end="70" vertical-scroll-proportion="0.28125" vertical-offset="0" max-vertical-offset="714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_types.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="38" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
@@ -447,7 +506,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.08346972" vertical-offset="0" max-vertical-offset="611">
+        <state line="3" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="38" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_reorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="12" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_csv_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.22258593" vertical-offset="0" max-vertical-offset="611">
           <folding />
         </state>
       </provider>
