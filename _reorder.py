@@ -5,6 +5,7 @@ order = (
     'calculator',
     'variables',
     'types',
+    'control_flow',
     'functions',
     'files',
     'csv_files',
@@ -29,7 +30,7 @@ for file_name in os.listdir(my_dir_path):
         continue
     new_file_path = os.path.join(my_dir_path, file_name_split[1])
     print file_path, 'to', new_file_path
-     os.rename(file_path, new_file_path)
+    os.rename(file_path, new_file_path)
 
 for file_i, file_base_name in enumerate(order):
     file_path = os.path.join(my_dir_path, file_base_name + '.py')
