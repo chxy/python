@@ -5,6 +5,7 @@ order = (
     'calculator',
     'variables',
     'types',
+    'if',
     'control_flow',
     'functions',
     'files',
