@@ -37,7 +37,15 @@ print 'x == 0', x == 0 # Equals
 print 'x != 0', x != 0 # Not equals
 print 'not (x == 0)', not (x == 0) # Negation
 
-# And one for lists
+# One for lists
 a_list = ['x', 'y']
 if 'x' in a_list:
     print 'x is in the list'
+
+
+# Be careful with types
+if '1' == 1:
+    print "It looks true, but it isn't"
+else:
+    print "A string will never equal an integer -- one of the disadvantages of having types."
+    # We'll see how to deal with this later.
