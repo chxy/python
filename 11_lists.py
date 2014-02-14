@@ -11,8 +11,6 @@ print 'Element 0:', a_list[0] # 0-based indices
 print 'Elements [0, 2):', a_list[0:2]
 print 'Last element:', a_list[len(a_list)-1] # The list has len(a_list) elements has the index of the last element is len(a_list)-1, because the indices are 0-based
 print 'Last element:', a_list[-1] # Shorthand for the above
-if 'x' in a_list:
-    print 'x is in the list'
 print
 
 

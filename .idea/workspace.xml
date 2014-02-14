@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bca6993-d6b9-42ad-8166-5a17c24ac257" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09_while.py" afterPath="$PROJECT_DIR$/09_while.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_reorder.py" afterPath="$PROJECT_DIR$/_reorder.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_if.py" afterPath="$PROJECT_DIR$/05_if.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11_lists.py" afterPath="$PROJECT_DIR$/11_lists.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python.iws" />
@@ -48,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="11_lists.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="11_lists.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11_lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="49" selection-start="923" selection-end="923" vertical-scroll-proportion="0.695581" vertical-offset="0" max-vertical-offset="611">
+            <state line="13" column="5" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -60,7 +60,16 @@
       <file leaf-file-name="09_while.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/09_while.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="13" selection-start="919" selection-end="919" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="1054">
+            <state line="50" column="0" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="1054">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_if.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05_if.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="0.02618658" vertical-offset="205" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
@@ -88,11 +97,11 @@
         <option value="$PROJECT_DIR$/06_files.py" />
         <option value="$PROJECT_DIR$/07_csv_files.py" />
         <option value="$PROJECT_DIR$/04_types.py" />
-        <option value="$PROJECT_DIR$/05_if.py" />
         <option value="$PROJECT_DIR$/10_for.py" />
         <option value="$PROJECT_DIR$/09_while.py" />
         <option value="$PROJECT_DIR$/_reorder.py" />
         <option value="$PROJECT_DIR$/11_lists.py" />
+        <option value="$PROJECT_DIR$/05_if.py" />
       </list>
     </option>
   </component>
@@ -164,7 +173,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.11_lists">
+  <component name="RunManager" selected="Python.05_if">
     <configuration default="false" name="07_csv_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,10 +394,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.11_lists" />
-        <item index="1" class="java.lang.String" itemvalue="Python.10_for" />
-        <item index="2" class="java.lang.String" itemvalue="Python.09_while" />
-        <item index="3" class="java.lang.String" itemvalue="Python.05_if" />
+        <item index="0" class="java.lang.String" itemvalue="Python.05_if" />
+        <item index="1" class="java.lang.String" itemvalue="Python.11_lists" />
+        <item index="2" class="java.lang.String" itemvalue="Python.10_for" />
+        <item index="3" class="java.lang.String" itemvalue="Python.09_while" />
         <item index="4" class="java.lang.String" itemvalue="Python.07_csv_files" />
       </list>
     </recent_temporary>
@@ -480,7 +489,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05_if.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="765" />
+        <state line="21" column="5" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="765">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -583,11 +594,6 @@
         <state line="2" column="0" selection-start="63" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_variables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="0.07359307" vertical-offset="0" max-vertical-offset="924" />
@@ -610,9 +616,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09_while.py">
+    <entry file="file://$PROJECT_DIR$/11_lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="13" selection-start="919" selection-end="919" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="1054">
+        <state line="13" column="5" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
@@ -624,9 +630,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_lists.py">
+    <entry file="file://$PROJECT_DIR$/09_while.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="49" selection-start="923" selection-end="923" vertical-scroll-proportion="0.695581" vertical-offset="0" max-vertical-offset="611">
+        <state line="50" column="0" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="0.02618658" vertical-offset="205" max-vertical-offset="816">
           <folding />
         </state>
       </provider>

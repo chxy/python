@@ -37,3 +37,7 @@ print 'x == 0', x == 0 # Equals
 print 'x != 0', x != 0 # Not equals
 print 'not (x == 0)', not (x == 0) # Negation
 
+# And one for lists
+a_list = ['x', 'y']
+if 'x' in a_list:
+    print 'x is in the list'
