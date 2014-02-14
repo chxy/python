@@ -4,7 +4,8 @@
 
 print 'Loop'
 x = 0
-while x < 10:
+while x < 10: # Spoken "while x is less than 10"
+    # Every pass through the loop -- executing this block -- is called an "iteration"
     print x
     x = x + 1
 print 'Now x = ', x
