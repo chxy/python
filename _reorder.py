@@ -6,7 +6,6 @@ order = (
     'variables',
     'types',
     'if',
-    'control_flow',
     'functions',
     'files',
     'csv_files',
