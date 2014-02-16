@@ -1,4 +1,4 @@
-import csv # Import the csv library
+import csv # Import the csv library, http://docs.python.org/2/library/csv.html
 
 with open('regents.csv') as f:
     # File block again

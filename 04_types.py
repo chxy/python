@@ -38,5 +38,8 @@ dict_variable_with_string_keys_and_integer_values = {'key1': 1, 'key2': 1}
 dict_variable_with_integer_keys_and_string_values = {1: 'value1', 2: 'value2'}
 dict_variable_with_mixed_types = {'key1': 1, 2: 'value2'} # Mutable, mixed types
 
+# None (called null in some languages) indicates the absence of a value
+none_variable = None
+
 # Get the type of a variable
 print type(tuple_variable)
