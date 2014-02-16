@@ -7,6 +7,7 @@ order = (
     'types',
     'lists',
     'dicts',
+    'nested_data_structures',
     'if',
     'while',
     'for',
