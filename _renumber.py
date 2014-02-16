@@ -6,6 +6,7 @@ order = (
     'variables',
     'types',
     'lists',
+    'dicts',
     'if',
     'while',
     'for',
