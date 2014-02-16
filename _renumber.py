@@ -15,6 +15,7 @@ order = (
     'files',
     'csv_files',
     'csv_file_with_header',
+    'type_conversion',
 )
 
 my_dir_path = os.path.dirname(__file__)
