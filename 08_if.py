@@ -37,10 +37,24 @@ print 'x == 0', x == 0 # Equals
 print 'x != 0', x != 0 # Not equals
 print 'not (x == 0)', not (x == 0) # Negation
 
-# One for lists
+# Test if a list or tuple contains an element
 a_list = ['x', 'y']
 if 'x' in a_list:
     print 'x is in the list'
+
+
+# Test if a dict contains a key
+a_dict = {'key1': 'value1', 'key2': 'value2'}
+if 'key1' in a_dict:
+    print 'key1 is in the dict'
+# Same as
+if 'key1' in a_dict.keys():
+    print 'key1 is in the dict'
+# (The first form is more common and more efficient.)
+if 'value1' in a_dict:
+    print "This won't work"
+if 'value1' in a_dict.values():
+    print 'This will'
 
 
 # Be careful with types

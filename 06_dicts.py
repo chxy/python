@@ -1,24 +1,27 @@
-# List operations
+# Dict operations
 
 
-a_list = ['a string', 1, True, 'x']
+a_dict = {'key1': 'value1', 'key2': 2}
 
 
-# Accessing a list
-print 'Complete list:', a_list
-print 'Length of the list:', len(a_list)
-print 'Element 0:', a_list[0] # 0-based indices
-print 'Elements [0, 2):', a_list[0:2]
-print 'Last element:', a_list[len(a_list)-1] # The list has len(a_list) elements has the index of the last element is len(a_list)-1, because the indices are 0-based
-print 'Last element:', a_list[-1] # Shorthand for the above
+# Accessing a dict
+print 'Complete dict:', a_dict
+print 'Length of the dict:', len(a_dict)
+print 'Value for key key1:', a_dict['key1']
+print 'Value for key key2:', a_dict['key2']
+print 'Keys:', a_dict.keys() # List; no guaranteed order
+print 'Values:', a_dict.values() # List; no guaranteed ord
+print 'Keys and value items:', a_dict.items() # List of tuples; no guaranteed order
 print
 
 
-# Modifying a list
-print 'List before modification:', a_list
-del a_list[0] # Delete the first element (index 0)
-print 'List after deleting the 0-th element:', a_list
-a_list.append('y') # Add an element to the end of the list
-print 'List with y appended to the end:', a_list
-a_list.insert(1, 'another string') # Insert an element before the element at index 1
-print 'List with "another string" inserted into it:', a_list
+# Modifying a dict
+print 'dict before modification:', a_dict
+del a_dict['key1'] # Delete the mapping from 'key1': 'value1'
+print 'dict after deleting key1:', a_dict
+a_dict['key3'] = True # Add a new mapping
+print 'dict with key3 added:', a_dict
+
+
+# Useful idiom
+a_dict.setdefault('key4', 4) # Set key4 to 4 iff it does not contain a key4 already

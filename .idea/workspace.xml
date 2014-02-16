@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/02_calculator.py" line="8" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bca6993-d6b9-42ad-8166-5a17c24ac257" name="Default" comment="" />
+    <list default="true" id="1bca6993-d6b9-42ad-8166-5a17c24ac257" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_dicts.py" afterPath="$PROJECT_DIR$/06_dicts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08_if.py" afterPath="$PROJECT_DIR$/08_if.py" />
+    </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,35 +28,7 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="05_lists.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_renumber.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_renumber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="12" selection-start="92" selection-end="92" vertical-scroll-proportion="0.1583851" vertical-offset="0" max-vertical-offset="884">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03_variables.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_variables.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -83,6 +58,8 @@
         <option value="$PROJECT_DIR$/03_variables.py" />
         <option value="$PROJECT_DIR$/12_dicts.py" />
         <option value="$PROJECT_DIR$/_renumber.py" />
+        <option value="$PROJECT_DIR$/06_dicts.py" />
+        <option value="$PROJECT_DIR$/08_if.py" />
       </list>
     </option>
   </component>
@@ -132,7 +109,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.06_if">
+  <component name="RunManager" selected="Python.08_if">
     <configuration default="false" name="05_if" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,42 +123,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_if.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="09_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_while.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="10_for" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_for.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -218,6 +159,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_if.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="06_dicts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_dicts.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="08_if" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_if.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -346,18 +323,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.05_if" />
-      <item index="1" class="java.lang.String" itemvalue="Python.09_while" />
-      <item index="2" class="java.lang.String" itemvalue="Python.10_for" />
-      <item index="3" class="java.lang.String" itemvalue="Python.11_lists" />
-      <item index="4" class="java.lang.String" itemvalue="Python.06_if" />
+      <item index="1" class="java.lang.String" itemvalue="Python.11_lists" />
+      <item index="2" class="java.lang.String" itemvalue="Python.06_if" />
+      <item index="3" class="java.lang.String" itemvalue="Python.06_dicts" />
+      <item index="4" class="java.lang.String" itemvalue="Python.08_if" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.06_if" />
-        <item index="1" class="java.lang.String" itemvalue="Python.05_if" />
-        <item index="2" class="java.lang.String" itemvalue="Python.11_lists" />
-        <item index="3" class="java.lang.String" itemvalue="Python.10_for" />
-        <item index="4" class="java.lang.String" itemvalue="Python.09_while" />
+        <item index="0" class="java.lang.String" itemvalue="Python.08_if" />
+        <item index="1" class="java.lang.String" itemvalue="Python.06_dicts" />
+        <item index="2" class="java.lang.String" itemvalue="Python.06_if" />
+        <item index="3" class="java.lang.String" itemvalue="Python.05_if" />
+        <item index="4" class="java.lang.String" itemvalue="Python.11_lists" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +366,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -399,7 +376,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32816902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32686567" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -565,13 +542,6 @@
         <state line="4" column="0" selection-start="0" selection-end="31" vertical-scroll-proportion="0.07359307" vertical-offset="0" max-vertical-offset="924" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05_lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
@@ -581,7 +551,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_renumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="92" selection-end="92" vertical-scroll-proportion="0.1583851" vertical-offset="0" max-vertical-offset="884">
+        <state line="4" column="17" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_dicts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="37" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="0" selection-start="1566" selection-end="1566" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="228" selection-end="228" vertical-scroll-proportion="0.2" vertical-offset="0" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
