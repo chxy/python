@@ -33,8 +33,8 @@ tuple_variable_with_one_element = (1,)
 
 # Bonus question: why have two sequence types, one mutable (the list) and one immutable (the tuple)?
 
-# A dictionary (aka dict) maps keys to values
-dict_variable_with_string_keys_and_integer_values = {'key1': 1, 'key2': 2}
+# A dictionary (aka dict) maps unique keys to any values
+dict_variable_with_string_keys_and_integer_values = {'key1': 1, 'key2': 1}
 dict_variable_with_integer_keys_and_string_values = {1: 'value1', 2: 'value2'}
 dict_variable_with_mixed_types = {'key1': 1, 2: 'value2'} # Mutable, mixed types
 

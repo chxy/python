@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bca6993-d6b9-42ad-8166-5a17c24ac257" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_dicts.py" afterPath="$PROJECT_DIR$/06_dicts.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08_if.py" afterPath="$PROJECT_DIR$/08_if.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_types.py" afterPath="$PROJECT_DIR$/04_types.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07_nested_data_structures.py" afterPath="$PROJECT_DIR$/07_nested_data_structures.py" />
     </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +28,35 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="07_nested_data_structures.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_nested_data_structures.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="50" selection-start="736" selection-end="736" vertical-scroll-proportion="0.6" vertical-offset="0" max-vertical-offset="425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_types.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_types.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="74" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="799">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06_dicts.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_dicts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -48,7 +76,6 @@
         <option value="$PROJECT_DIR$/05_functions.py" />
         <option value="$PROJECT_DIR$/06_files.py" />
         <option value="$PROJECT_DIR$/07_csv_files.py" />
-        <option value="$PROJECT_DIR$/04_types.py" />
         <option value="$PROJECT_DIR$/10_for.py" />
         <option value="$PROJECT_DIR$/09_while.py" />
         <option value="$PROJECT_DIR$/_reorder.py" />
@@ -60,6 +87,8 @@
         <option value="$PROJECT_DIR$/_renumber.py" />
         <option value="$PROJECT_DIR$/06_dicts.py" />
         <option value="$PROJECT_DIR$/08_if.py" />
+        <option value="$PROJECT_DIR$/04_types.py" />
+        <option value="$PROJECT_DIR$/07_nested_data_structures.py" />
       </list>
     </option>
   </component>
@@ -109,7 +138,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.08_if">
+  <component name="RunManager" selected="Python.07_nested_data_structures">
     <configuration default="false" name="05_if" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,24 +152,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_if.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="11_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_lists.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -195,6 +206,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_if.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="07_nested_data_structures" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_nested_data_structures.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -323,18 +352,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.05_if" />
-      <item index="1" class="java.lang.String" itemvalue="Python.11_lists" />
-      <item index="2" class="java.lang.String" itemvalue="Python.06_if" />
-      <item index="3" class="java.lang.String" itemvalue="Python.06_dicts" />
-      <item index="4" class="java.lang.String" itemvalue="Python.08_if" />
+      <item index="1" class="java.lang.String" itemvalue="Python.06_if" />
+      <item index="2" class="java.lang.String" itemvalue="Python.06_dicts" />
+      <item index="3" class="java.lang.String" itemvalue="Python.08_if" />
+      <item index="4" class="java.lang.String" itemvalue="Python.07_nested_data_structures" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.08_if" />
-        <item index="1" class="java.lang.String" itemvalue="Python.06_dicts" />
-        <item index="2" class="java.lang.String" itemvalue="Python.06_if" />
-        <item index="3" class="java.lang.String" itemvalue="Python.05_if" />
-        <item index="4" class="java.lang.String" itemvalue="Python.11_lists" />
+        <item index="0" class="java.lang.String" itemvalue="Python.07_nested_data_structures" />
+        <item index="1" class="java.lang.String" itemvalue="Python.08_if" />
+        <item index="2" class="java.lang.String" itemvalue="Python.06_dicts" />
+        <item index="3" class="java.lang.String" itemvalue="Python.06_if" />
+        <item index="4" class="java.lang.String" itemvalue="Python.05_if" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +395,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -532,11 +561,6 @@
         <state line="3" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.055194806" vertical-offset="0" max-vertical-offset="924" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_types.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.478355" vertical-offset="0" max-vertical-offset="924" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="0" selection-end="31" vertical-scroll-proportion="0.07359307" vertical-offset="0" max-vertical-offset="924" />
@@ -556,13 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_dicts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="37" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08_if.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="0" selection-start="1566" selection-end="1566" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1207">
@@ -573,6 +590,27 @@
     <entry file="file://$PROJECT_DIR$/03_variables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="228" selection-end="228" vertical-scroll-proportion="0.2" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_dicts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="74" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_nested_data_structures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="50" selection-start="736" selection-end="736" vertical-scroll-proportion="0.6" vertical-offset="0" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
