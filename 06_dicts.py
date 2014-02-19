@@ -1,14 +1,14 @@
 # Dict operations
 
 
-a_dict = {'key1': 'value1', 'key2': 2}
+a_dict = {'first_name': 'Minor', 'names_count': 2}
 
 
 # Accessing a dict
 print 'Complete dict:', a_dict
 print 'Length of the dict:', len(a_dict)
-print 'Value for key key1:', a_dict['key1']
-print 'Value for key key2:', a_dict['key2']
+print 'Value for key first_name:', a_dict['first_name']
+print 'Value for key names_count:', a_dict['names_count']
 print 'Keys:', a_dict.keys() # List; no guaranteed order
 print 'Values:', a_dict.values() # List; no guaranteed ord
 print 'Keys and value items:', a_dict.items() # List of tuples; no guaranteed order
@@ -17,8 +17,8 @@ print
 
 # Modifying a dict
 print 'dict before modification:', a_dict
-del a_dict['key1'] # Delete the mapping from 'key1': 'value1'
-print 'dict after deleting key1:', a_dict
+del a_dict['first_name'] # Delete the mapping from 'first_name': 'Minor'
+print 'dict after deleting first_name:', a_dict
 a_dict['key3'] = True # Add a new mapping
 print 'dict with key3 added:', a_dict
 

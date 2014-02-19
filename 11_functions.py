@@ -6,3 +6,13 @@ def add(x, y):
 
 z = add(1, 2) # Call the function and store its result in the variable z
 print z
+
+# Functions allow for code reuse ("Don't Repeat Yourself")
+
+def change_list(a_list):
+    del a_list[0]
+    a_list.append('test')
+some_list = ['a', 'b']
+change_list(some_list) # some_list "becomes" a_list in change_list
+some_other_list = ['b', 'c']
+change_list(some_other_list) # some_other_list "becomes" some_other_list in change_list
