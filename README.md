@@ -5,8 +5,14 @@ A sequence of [Python] modules that demonstrate all of the necessary machinery t
 The tasks are named taskN.py in the corresponding order.
 
 ## Free software to download and install ##
-1. [Python 2.7.6](http://python.org/download/releases/2.7.6/): install this first
-1. [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/): install this second
+
+#### Windows ####
+1. [Java 7 SE Runtime Environment for end users](http://www.oracle.com/technetwork/java/javase/downloads/index.html): install this first
+1. [Python 2.7.6](http://python.org/download/releases/2.7.6/): install this second
+1. [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/): install this third
+
+#### OS X or Linux ###
+1. [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/)
 
 ## Other tutorials (in order of preference) ##
 1. [Learn Python the Hard Way](http://learnpythonthehardway.org/)
