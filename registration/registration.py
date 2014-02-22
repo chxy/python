@@ -1,27 +1,14 @@
+from copy import copy
 import csv
 import os.path
 
 
+from constants import NO_PYTHON, NO_SQL
+NO_PYTHON = copy(NO_PYTHON)
+NO_SQL = copy(NO_SQL)
+
+
 MY_DIR_PATH = os.path.dirname(__file__)
-
-
-NO_PYTHON = [
-    'estervig@iastate.edu',
-    'rjohnson@iastate.edu',
-    'akapoor@iastate.edu',
-#    'rodr45@iastate.edu',
-    'xyu@iastate.edu',
-    'yangzhao@iastate.edu',
-]
-
-NO_SQL = [
-    'xycheng@iastate.edu',
-    'chamila@iastate.edu',
-    'ndesilva@iastate.edu',
-    'sayan@iastate.edu',
-    'amit@iastate.edu',
-    'kmanibog@iastate.edu',
-]
 
 
 class Registration(object):

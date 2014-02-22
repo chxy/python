@@ -38,4 +38,5 @@ nosetests.xml
 .idea/workspace.xml
 
 # Registration files
+registration/constants.py
 registration/*.csv
