@@ -36,3 +36,6 @@ nosetests.xml
 .pydevproject
 .idea/tasks.xml
 .idea/workspace.xml
+
+# Registration files
+registration/*.csv
