@@ -1,6 +1,8 @@
+from argparse import ArgumentParser
 from copy import copy
 import csv
 import os.path
+import sys
 
 
 from constants import NO_PYTHON, NO_SQL
@@ -42,6 +44,9 @@ class Registration(object):
             self.__laptop = csv_row[4].strip().lower() == "yes"
         else:
             self.__laptop = None
+
+    def __eq__(self, other):
+        return self.__email == other.__email
 
     def __cmp__(self, other):
         return cmp(self.last_name.lower(), other.last_name.lower())
@@ -93,12 +98,17 @@ def read_registrations(file_base_name):
 
 
 python_registrations = read_registrations('python')
-python_thursday_registrations = read_registrations('python_thursday')
-python_friday_registrations = read_registrations('python_friday')
-assert len(python_registrations) == len(python_thursday_registrations) + len(python_friday_registrations)
-for python_registrations_ in (python_registrations, python_thursday_registrations, python_friday_registrations):
+thursday_python_registrations = read_registrations('python_thursday')
+friday_python_registrations = read_registrations('python_friday')
+assert len(python_registrations) == len(thursday_python_registrations) + len(friday_python_registrations)
+for python_registrations_ in (python_registrations, thursday_python_registrations, friday_python_registrations):
     for python_registration in python_registrations_:
         assert python_registration.python, python_registration
+for day_python_registrations in (thursday_python_registrations, friday_python_registrations):
+    for day_python_registration in day_python_registrations:
+        if not day_python_registration in python_registrations:
+            # print >>sys.stderr, day_python_registration, 'is registered for a day but is not in the total list'
+            pass
 
 sql_registrations = read_registrations('sql')
 for sql_registration in sql_registrations:
@@ -107,13 +117,23 @@ assert len(NO_PYTHON) == 0, NO_PYTHON
 assert len(NO_SQL) == 0, NO_SQL
 
 
-def get_registrations_by_major(registrations):
-    registrations_by_major = {}
-    for registration in registrations:
-        assert registration.major is not None
-        registrations_by_major.setdefault(registration.major, []).append(registration)
-    return registrations_by_major
-#for major, python_registrations_ in sorted(get_registrations_by_major(python_registrations).iteritems()):
-#    print major, len(python_registrations_)
 
+argument_parser = ArgumentParser()
+argument_parser.add_argument("--emails", action='store_true')
+argument_parser.add_argument("--day", type=str, default='thursday')
+argument_parser.add_argument("--registrations-by-major", action='store_true')
+args = argument_parser.parse_args()
 
+if args.emails:
+    registrations = locals()[args.day + '_python_registrations']
+    print "\n".join(str(registration) for registration in registrations)
+    # print len(registrations)
+elif args.registrations_by_major:
+    def get_registrations_by_major(registrations):
+        registrations_by_major = {}
+        for registration in registrations:
+            assert registration.major is not None
+            registrations_by_major.setdefault(registration.major, []).append(registration)
+        return registrations_by_major
+    #for major, python_registrations_ in sorted(get_registrations_by_major(python_registrations).iteritems()):
+    #    print major, len(python_registrations_)
