@@ -18,15 +18,29 @@ The tasks are named taskN.py in the corresponding order.
 1. [Learn Python the Hard Way](http://learnpythonthehardway.org/)
 1. [Dive into Python](http://www.diveintopython.net/toc/index.html)
 1. [Official Python tutorial](http://docs.python.org/2/tutorial/index.html)
+    * [Numbers, strings, and lists](http://docs.python.org/2/tutorial/introduction.html#using-python-as-a-calculator)
+    * [More on lists](http://docs.python.org/2/tutorial/datastructures.html)
+    * [Control flow](http://docs.python.org/2/tutorial/controlflow.html)
+    * [Functions](http://docs.python.org/2/tutorial/controlflow.html#defining-functions)
 
 ## References ##
 * [Python standard library reference](http://docs.python.org/2/library/index.html)
+    * [Numeric types](http://docs.python.org/2/library/stdtypes.html#numeric-types-int-float-long-complex)
+    * [dict](http://docs.python.org/2/library/stdtypes.html#mapping-types-dict)
+    * [list](http://docs.python.org/2/library/stdtypes.html#mutable-sequence-types)
+    * [string](http://docs.python.org/2/library/stdtypes.html#string-methods)
+    * [Built-in functions](http://docs.python.org/2/library/functions.html)
+    * [Comparison](http://docs.python.org/2/library/stdtypes.html#comparisons)
 * [Python language reference](http://docs.python.org/2/reference/index.html)
 * [Python package index](http://pypi.python.org)
+* [Python 2.6 cheat sheet](http://rgruet.free.fr/PQR26/PQR2.6.html)
+* [Python pocket reference (book)](http://shop.oreilly.com/product/9780596158095.do)
+
 
 ## Relevant libraries ##
 * [scipy, numpy, Matplotlib](http://www.scipy.org/)
 * [Numeric and scientific libraries](https://wiki.python.org/moin/NumericAndScientific)
+* [Sandman](http://www.sandman.io/)
 
 ## Contact ##
 [minorgordon.net](http://minorgordon.net)
